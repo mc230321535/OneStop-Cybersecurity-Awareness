@@ -62,7 +62,7 @@ section {
     border-radius: 12px;
     position: relative; /* For absolute positioning of illustrations */
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Increased shadow for depth */
-    background-image: url('file:///C:/Users/felix/OneDrive/Desktop/wall.jpg'); /* Background image */
+    background-image: url('wall.jpg'); /* Background image */
     background-size: cover; /* Ensure the image covers the entire section */
     background-position: center; /* Center the background image */
 }
